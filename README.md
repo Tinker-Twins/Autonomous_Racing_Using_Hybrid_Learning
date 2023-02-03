@@ -21,11 +21,9 @@ We adopted a hybrid imitation-reinforcement learning architecture and crafted a 
 The training phase of the proposed approach was analyzed in order to gain a better insight into the policy optimization process, and comment on the effectiveness of the hybrid learning strategy adopted in this work. Particularly, we analyzed the imitation learning (behavioral cloning loss, GAIL reward)
 and reinforcement learning (curiosity reward, extrinsic reward) metrics along with the policy entropy and episode length.
 
-|                    |                     |                     |
-|:------------------:|:-------------------:|:-------------------:|
 | ![Behavioral Cloning Loss](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2a.png) | ![GAIL Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2b.png) | ![Curiosity Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2c.png) |
+|:------------------:|:-------------------:|:-------------------:|
 | ![Extrinsic Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2d.png) | ![Policy Entropy](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2e.png) | ![Episode Length](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2f.png) |
-|                    |                     |                     |
 
 ## Deployment Results
 
