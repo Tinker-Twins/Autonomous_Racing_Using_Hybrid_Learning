@@ -39,3 +39,23 @@ The autonomous agent not only exhibited superior performance by gaining 0.96 sec
 | :--------------:| :-----------------: |
 | ![Best Manual Lap Trajectory](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_4a.png) | ![Best Autonomous Lap Trajectory](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_4b.png) |
 | ![Best Manual Lap Controls](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_5a.png) | ![Best Autonomous Lap Controls](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_5b.png) |
+
+## Demo
+Implementation demonstrations are available on [YouTube](https://www.youtube.com/playlist?list=PLY45pkzWzH98HT0U8xq2j9OjybFDIaFN0).
+
+## Citation
+
+We encourage you to cite the [following paper](https://arxiv.org/abs/2110.05437) if you use any part of this project for your research:
+
+```bibtex
+@eprint{AutoRACE-2021,
+    doi = {10.48550/ARXIV.2110.05437},
+    url = {https://arxiv.org/abs/2110.05437},
+    author = {Samak, Chinmay Vilas and Samak, Tanmay Vilas and Kandhasamy, Sivanathan},
+    keywords = {Robotics (cs.RO), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
+    title = {Autonomous Racing using a Hybrid Imitation-Reinforcement Learning Architecture},
+    publisher = {arXiv},
+    year = {2021},
+    copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
