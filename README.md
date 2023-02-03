@@ -34,3 +34,8 @@ Deployment results were reported as a direct comparison of 10 autonomous laps (r
 ![Human Players vs Autonomous Agent](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_3.png)
 
 The autonomous agent not only exhibited superior performance by gaining 0.96 seconds over the best manual lap, but it also dominated the human players by 1.46 seconds with regard to the mean lap time. This dominance could be justified in terms of better trajectory optimization and lower reaction time of the autonomous agent.
+
+| Best Manual Lap | Best Autonomous Lap |
+| :--------------:| :-----------------: |
+| ![Best Manual Lap Trajectory](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_4a.png) | ![Best Autonomous Lap Trajectory](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_4b.png) |
+| ![Best Manual Lap Controls](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_5a.png) | ![Best Autonomous Lap Controls](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_5b.png) |
