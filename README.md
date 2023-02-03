@@ -1,6 +1,6 @@
 # Autonomous Racing using a Hybrid Imitation-Reinforcement Learning Architecture
 
-In this work, we present a rigorous end-to-end control strategy for autonomous vehicles aimed at minimizing lap times in a time attack racing event. Deployment results were reported as a direct comparison of 10 autonomous laps against 100 manual laps by 10 different human players. The autonomous agent not only exhibited superior performance by gaining 0.96 seconds over the best manual lap, but it also dominated the human players by 1.46 seconds with regard to the mean lap time. This dominance could be justified in terms of better trajectory optimization and lower reaction time of the autonomous agent.
+In this work, we present a rigorous end-to-end control strategy for autonomous vehicles aimed at minimizing lap times in a time attack racing event.
 
 ## Simulation System
 
@@ -26,3 +26,11 @@ and reinforcement learning (curiosity reward, extrinsic reward) metrics along wi
 | ![Behavioral Cloning Loss](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2a.png) | ![GAIL Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2b.png) | ![Curiosity Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2c.png) |
 | ![Extrinsic Reward](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2d.png) | ![Policy Entropy](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2e.png) | ![Episode Length](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_2f.png) |
 |                    |                     |                     |
+
+## Deployment Results
+
+Deployment results were reported as a direct comparison of 10 autonomous laps (represented in red color) against 100 manual laps by 10 different human players (represented in blue color).
+
+![Human Players vs Autonomous Agent](https://github.com/Tinker-Twins/Autonomous_Racing_Using_Hybrid_Learning/blob/main/Media/Figure_3.png)
+
+The autonomous agent not only exhibited superior performance by gaining 0.96 seconds over the best manual lap, but it also dominated the human players by 1.46 seconds with regard to the mean lap time. This dominance could be justified in terms of better trajectory optimization and lower reaction time of the autonomous agent.
